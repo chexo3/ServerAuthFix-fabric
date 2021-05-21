@@ -1,29 +1,24 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "serverauthfix",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Server Authentication Fix",
+  "description": "Fixes authentication/online mode on the server.",
   "authors": [
-    "Me!"
+    "chexo3"
   ],
   "contact": {
     "homepage": "https://glass-launcher.net/",
-    "sources": "https://github.com/calmilamsy/BIN-fabric-example-mod"
+    "sources": "https://github.com/chexo3/ServerAuthFix-fabric"
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/serverauthfix/icon.png",
 
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.glasslauncher.example.ExampleMod"
-    ]
-  },
+  "environment": "server",
   "mixins": [
-    "modid.mixins.json"
+    "serverauthfix.mixins.json"
   ],
 
   "depends": {

@@ -1,3 +1,17 @@
+
+# Server-side authentication fix for Cursed Fabric
+## What is this?
+This mod is a simple mixin to fix server authentication/online-mode in Beta 1.7.3 `cursed-fabric` servers. It does not fix client authentication, I would recommend [Amb0s' VanillaFixes](https://github.com/Amb0s/vanilla-fixes) for that.
+
+## Usage
+Drop it in your mods folder in a `cursed-fabric` instance. You can find links to both a MultiMC instance and an installer for the official launcher on the [website for Minecraft Cursed Legacy](https://minecraft-cursed-legacy.github.io/)
+
+
+
+
+####*Original README from template follows:*
+___
+___
 # Fabric Example Mod with BIN Mappings for beta 1.7.3 server + client
 
 ## Setup
