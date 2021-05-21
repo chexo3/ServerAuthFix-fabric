@@ -11,7 +11,6 @@ Drop it in your mods folder in a `cursed-fabric` instance. You can find links to
 
 #### *Original README from template follows:*
 ___
-___
 # Fabric Example Mod with BIN Mappings for beta 1.7.3 server + client
 
 ## Setup
